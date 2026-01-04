@@ -3,13 +3,13 @@ Repositório contendo exercícios práticos de Python focados em laços de repet
 
 # Conteúdo
 
-Estrutura de repetição while
+*Estrutura de repetição while
 
-Condições de parada
+*Condições de parada
 
-Controle de fluxo com break e continue
+*Controle de fluxo com break e continue
 
-Exercícios de lógica e desafios progressivos
+*Exercícios de lógica e desafios progressivos
 
 # Objetivo
 
